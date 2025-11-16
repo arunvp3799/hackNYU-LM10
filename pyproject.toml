@@ -1,0 +1,11 @@
+[project]
+name = "hacknyu-lm10"
+version = "0.1.0"
+description = "Add your description here"
+readme = "README.md"
+requires-python = ">=3.12"
+dependencies = [
+    "openai>=2.8.0",
+    "openrouter>=0.0.16",
+    "requests>=2.32.5",
+]
